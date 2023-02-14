@@ -1,0 +1,10 @@
+.sub-header img {
+  width: 100%;
+  padding-top: 70px;
+}
+
+@media (max-width: 776px) {
+  .sub-header img {
+    padding-top: 0;
+  }
+}
