@@ -1,3 +1,6 @@
+.header {
+  margin-bottom: 74px;
+}
 .header .navbar-nav a {
   margin: 0 10px;
 }
@@ -18,8 +21,5 @@
   .navbar-toggler {
     border: none !important;
     box-shadow: none !important;
-  }
-  .fixed-top {
-    position: inherit !important;
   }
 }

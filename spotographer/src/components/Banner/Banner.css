@@ -35,7 +35,7 @@
 
 @media (max-width: 576px) {
   .carousel-item img {
-    height: 600px !important;
+    height: 300px !important;
     width: auto !important;
   }
   .slider .button {
