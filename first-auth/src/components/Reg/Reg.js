@@ -3,11 +3,14 @@ import Container from "react-bootstrap/esm/Container";
 import Button from "react-bootstrap/Button";
 import Form from "react-bootstrap/Form";
 import { useCreateUserWithEmailAndPassword } from "react-firebase-hooks/auth";
-
 import auth from "../../firebase.init";
 import Row from "react-bootstrap/esm/Row";
 import Col from "react-bootstrap/esm/Col";
 import { NavLink } from "react-router-dom";
+import "./Reg.css";
+import GoogleSignUp from "../GoogleSignUp/GoogleSignUp";
+import FacebookSignUp from "../FacebookSignUp/FacebookSignUp";
+import GithubSignUp from "../GithubSignUp/GithubSignUp";
 
 const Reg = () => {
   const [email, setEmail] = useState("");
@@ -15,7 +18,7 @@ const Reg = () => {
   const messageDiv = document.getElementById("message-div");
 
   const [createUserWithEmailAndPassword, user, loading, error] =
-    useCreateUserWithEmailAndPassword(auth);
+    useCreateUserWithEmailAndPassword(auth, { sendEmailVerification: true });
 
   if (error) {
     messageDiv.innerHTML = error;
@@ -62,9 +65,14 @@ const Reg = () => {
               onClick={() => createUserWithEmailAndPassword(email, password)}
               variant="primary"
               type="submit"
+              className="w-100"
             >
               Submit
             </Button>
+            <span className="or-style">Or</span>
+            <GoogleSignUp />
+            <FacebookSignUp />
+            <GithubSignUp />
           </Col>
         </Row>
       </Container>
