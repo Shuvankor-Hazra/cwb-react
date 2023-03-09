@@ -1,0 +1,24 @@
+.not-found-area {
+  margin-top: 75px 0;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color: #151c575a;
+}
+.not-found-text h2 {
+  font-size: 60px;
+  opacity: 0.5;
+}
+.not-found-text h3 {
+  font-size: 20px;
+  opacity: 0.5;
+}
+.not-found-text a {
+  text-decoration: none;
+  color: #fca253;
+  font-size: 20px;
+}
+.not-found-text a:hover {
+  text-decoration: underline;
+  color: #fca253;
+}

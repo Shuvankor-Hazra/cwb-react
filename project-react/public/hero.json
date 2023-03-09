@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1",
+    "subheading": "Welcome to our Business",
+    "heading": "Grow Your Business Strategy",
+    "text": "Consulting Business can transform quickly",
+    "button": "About Us >>",
+    "image": "https://i.ibb.co/TmB8Kdh/slider-1.jpg"
+  },
+  {
+    "id": "2",
+    "subheading": "Welcome to our Business",
+    "heading": "Grow Your Business Strategy",
+    "text": "Consulting Business can transform quickly",
+    "button": "About Us >>",
+    "image": "https://i.ibb.co/b2Fws3V/slider-2.jpg"
+  },
+  {
+    "id": "3",
+    "subheading": "Welcome to our Business",
+    "heading": "Grow Your Business Strategy",
+    "text": "Consulting Business can transform quickly",
+    "button": "About Us >>",
+    "image": "https://i.ibb.co/4KLk6Nd/slider-3.jpg"
+  },
+  {
+    "id": "4",
+    "subheading": "Welcome to our Business",
+    "heading": "Grow Your Business Strategy",
+    "text": "Consulting Business can transform quickly",
+    "button": "About Us >>",
+    "image": "https://i.ibb.co/Dt68fs6/slider-4.jpg"
+  }
+]

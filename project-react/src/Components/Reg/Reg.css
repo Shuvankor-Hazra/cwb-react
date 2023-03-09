@@ -1,0 +1,19 @@
+.reg-area {
+  margin-top: 75px;
+  background-color: #151c575a;
+}
+.reg-area p {
+  text-align: center;
+}
+.reg-area p a {
+  color: darkgreen;
+}
+.or-style {
+  display: block;
+  background-color: bisque;
+  padding: 5px;
+  text-align: center;
+  margin: 30px 0;
+  border-radius: 3px;
+  color: #000;
+}

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "img": "https://i.ibb.co/Mn9T68T/service-1.jpg",
+    "h3": "Ecommerce Solution",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum..",
+    "btn": "Read More >>"
+  },
+  {
+    "id": "2",
+    "img": "https://i.ibb.co/QFnWLdX/service-2.jpg",
+    "h3": "Business Financing",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum..",
+    "btn": "Read More >>"
+  },
+  {
+    "id": "3",
+    "img": "https://i.ibb.co/MnhPKhq/service-3.jpg",
+    "h3": "Product Marketing",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum..",
+    "btn": "Read More >>"
+  },
+  {
+    "id": "4",
+    "img": "https://i.ibb.co/10X1MBj/service-4.jpg",
+    "h3": "Business Idea",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum..",
+    "btn": "Read More >>"
+  },
+  {
+    "id": "5",
+    "img": "https://i.ibb.co/2WqgRm1/service-5.jpg",
+    "h3": "Custom portfolio",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum..",
+    "btn": "Read More >>"
+  },
+  {
+    "id": "6",
+    "img": "https://i.ibb.co/v4mdd2f/service-6.jpg",
+    "h3": "Brand Promotion",
+    "p": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce aliquet, massa ac ornare feugiat, nunc dui auctor ipsum..",
+    "btn": "Read More >>"
+  }
+]

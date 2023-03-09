@@ -1,0 +1,31 @@
+.section-heading {
+  color: #fff;
+}
+.section-heading h2 {
+  position: relative;
+  font-size: 40px;
+  margin-bottom: 50px;
+  text-transform: uppercase;
+  font-weight: 700;
+  line-height: 42px;
+  font-family: "Oswald", sans-serif;
+}
+.section-heading h2 span {
+  color: #f6ba18;
+  font-weight: 400;
+}
+.section-heading h2::after {
+  content: "";
+  background: #f6ba18;
+  height: 2px;
+  width: 60px;
+  position: absolute;
+  bottom: -30px;
+  left: 50%;
+  margin-left: -30px;
+}
+
+.section-heading p {
+  max-width: 800px;
+  margin: 30px auto;
+}

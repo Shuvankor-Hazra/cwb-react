@@ -25,6 +25,7 @@ const FacebookSignUp = () => {
   }
   return (
     <div>
+      {" "}
       <Button
         className="btn btn-default w-100 mb-3"
         onClick={() => signInWithFacebook()}

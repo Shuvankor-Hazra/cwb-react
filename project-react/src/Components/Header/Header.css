@@ -1,0 +1,30 @@
+.header-area .nav-bar {
+  background: #151c57;
+  background: linear-gradient(
+    180deg,
+    rgba(21, 28, 87, 1) 0%,
+    rgb(2, 2, 48) 100%
+  );
+}
+.header-area .logo {
+  font-size: 30px;
+  font-weight: 700;
+}
+.header-area .logo img {
+  width: 140px;
+  height: auto;
+}
+.header-area .nav-link {
+  font-size: 18px;
+  color: #fff !important;
+}
+.header-area .nav-link:hover,
+.header-area .nav-link:active {
+  color: #f6ba18 !important;
+}
+.header-area .btn-link {
+  margin-left: 30px;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+}

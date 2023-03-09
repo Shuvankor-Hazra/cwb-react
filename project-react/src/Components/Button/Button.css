@@ -1,0 +1,21 @@
+button.btn-link,
+.btn-link {
+  cursor: pointer;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  padding: 10px 30px;
+  color: #000;
+  border: 2px solid #f6ba18;
+  border-radius: 25px;
+  font-weight: 600;
+  font-size: 1rem;
+  line-height: 1.5;
+  background: #f6ba18;
+  text-decoration: none;
+}
+button:hover,
+.btn-link:hover {
+  background-color: #be9112;
+  color: #000 !important;
+}
